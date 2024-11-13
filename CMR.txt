@@ -1,5 +1,5 @@
 CRM: a technology for managing all your company's relationships and interactions with customers and potential customers.
-
+# A CRM helps companies stay connected to customer streamline processes and improve profitability.
 Customer Relationship Management (CRM) is a system that helps businesses manage interactions and relationships with both existing and potential customers. In sales, CRM is crucial because it enables sales teams to organize and access customer information, track sales activities, and improve customer service, ultimately leading to more successful sales outcomes. Let's break down CRM in sales in a simple way:
 
 1. Centralized Customer Data
